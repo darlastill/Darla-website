@@ -1,2 +1,2 @@
 # Darla-blog
-uhgo blog
+hugo blog
