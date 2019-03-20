@@ -2,7 +2,7 @@ baseURL = "http://darlastill.com/"
 languageCode = "en-us"
 title = "Darla Still"
 paginate = 3
-theme = "terrassa"
+theme = "hugo-terrassa-theme"
 
 [params]
     description = "Professional blog for Darla Still"

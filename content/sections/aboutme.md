@@ -1,7 +1,7 @@
 ---
 title : "About Me"
 description: ""
-draft: true
+draft: false
 weight: 1
 ---
 I am currently a [Doctoral Candidate](https://sociology.arizona.edu/user/darla-still) at The University of Arizona in the School of Sociology.
