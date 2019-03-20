@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Darla Still</title>
+    <link>http://darlastill.com/</link>
+    <description>Recent content in About Me on Darla Still</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://darlastill.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://darlastill.com/curriculumvitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://darlastill.com/curriculumvitae/</guid>
+      <description>Below is the .pdf version of my curriculum vitae.
+ </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://darlastill.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://darlastill.com/teaching/</guid>
+      <description>Instructor of Record
+University of Arizona
+Spring 2019 -- CHS/SOC 421: Sociology of Drugs and Addiction Fall 2018, Winter 2018-19 (online) -- CHS/SOC 404: Sociology of Mental Health Summer 2018 (online) -- CHS/SOC 202: Connecting Health and Society Winter 2017-18 (online) -- CHS/SOC 401: Health Disparities in Society Summer 2017 (online) -- CHS/SOC 280: Students, Schools, and Society Summer 2016 (online) -- CHS/SOC 101: Introduction to Sociology  Arkansas State University Mid-South (formerly Mid-South Community College)</description>
+    </item>
+    
+  </channel>
+</rss>
