@@ -5,7 +5,7 @@ paginate = 3
 theme = "hugo-terrassa-theme"
 
 [params]
-    description = "Professional blog for Darla Still"
+    description = "Professional website for Darla Still"
     favicon = "favicon.io" # Relative URL
     logo = "" # Absolute URL
 
@@ -20,7 +20,7 @@ theme = "hugo-terrassa-theme"
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form]
-    netlify = false # Use only if you are using Netlify
+    netlify = true # Use only if you are using Netlify
     action = "https://formspree.io/darla@darla.com"
     method = "POST"
     inputNameName = "name"
