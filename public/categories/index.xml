@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Darla Still</title>
-    <link>http://darlastill.com/categories/</link>
+    <link>https://hungry-wozniak-3561f4.netlify.com/categories/</link>
     <description>Recent content in Categories on Darla Still</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://darlastill.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hungry-wozniak-3561f4.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

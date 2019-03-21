@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://darlastill.com/</loc>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>http://darlastill.com/curriculumvitae/</loc>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/curriculumvitae/</loc>
   </url>
   
   <url>
-    <loc>http://darlastill.com/posts/</loc>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/teaching/</loc>
   </url>
   
   <url>
-    <loc>http://darlastill.com/teaching/</loc>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/contact/</loc>
   </url>
   
   <url>
-    <loc>http://darlastill.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://darlastill.com/categories/</loc>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://darlastill.com/tags/</loc>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/sections/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/sections/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hungry-wozniak-3561f4.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
