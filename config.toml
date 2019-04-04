@@ -21,7 +21,7 @@ theme = "hugo-terrassa-theme"
 
 [params.form]
     netlify = true # Use only if you are using Netlify
-    action = "https://formspree.io/darla@darla.com"
+    action = "https://formspree.io/drlamstill@gmail.com"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Name"
@@ -56,7 +56,7 @@ theme = "hugo-terrassa-theme"
     instagram = ""
     pinterest = ""
     youtube = ""
-    linkedin = ""
+    linkedin = "https://www.linkedin.com/in/darla-still-4a324b40/"
     weibo = ""
     mastodon = ""
     tumblr = ""
