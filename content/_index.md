@@ -21,9 +21,10 @@ weight: 1
         border-radius: 1em;
         padding: 1em;
         position: right;
+}
         div.c {
-  width: 600px;
-  ; 
+  width: 50%;
+  ;  
 }
          </style>
   </head>
