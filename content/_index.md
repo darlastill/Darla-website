@@ -24,7 +24,7 @@ weight: 1
 }
         div.c {
   width: 1300px;
-  height: 600px;  
+  height: 750px;  
 }
          </style>
   </head>
