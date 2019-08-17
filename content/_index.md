@@ -22,4 +22,4 @@ p.ex1 {
 
 <p class="ex1">Darla has a strong passion for finding answers to puzzles through her research skills. As a methodologist and computational social scientist, Darla is able to answer a multitude of research questions by matching each question to an appropriate analytical technique. Darla embraces the challenge of finding patterns in data, but by having a strong understanding of social relationships, Darla has a deeper awareness of human behavior, thus enhancing her empathy for the human experience. </p> 
 
-{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="30%" >}}
+{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="28%" >}}
