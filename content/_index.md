@@ -24,7 +24,7 @@ weight: 1
 }
         div.c {
   width: 90%;
-  height: 90%;  
+  height: 900px;  
 }
          </style>
   </head>
