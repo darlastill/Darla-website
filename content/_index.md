@@ -23,8 +23,8 @@ weight: 1
         position: right;
 }
         div.c {
-  width: 85%;
-  height: 85%;  
+  width: 1200px;
+  height: 500px;  
 }
          </style>
   </head>
