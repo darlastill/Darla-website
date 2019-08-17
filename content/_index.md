@@ -14,8 +14,8 @@ weight: 1
     section {
         background: black;
         color: white;
-        border-radius: 3em;
-        padding: 3em;
+        border-radius: 1em;
+        padding: 1em;
         position: absolute;
         top: 50%;
         left: 50%;
