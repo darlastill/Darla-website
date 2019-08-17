@@ -22,7 +22,7 @@ weight: 1
         padding: 1em;
         position: right;
         div.c {
-  width: 50%;
+  width: 750px;
   ; 
 }
          </style>
