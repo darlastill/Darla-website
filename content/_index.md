@@ -17,10 +17,10 @@ weight: 1
         border-radius: 1em;
         padding: 1em;
         position: absolute;
-        top: 50%;
-        left: 50%;
-        margin-right: -50%;
-        transform: translate(-50%, -50%) }
+        top: 75%;
+        left: 75%;
+        margin-right: -75%;
+        transform: translate(-75%, -75%) }
   </style>
   </head>
 <body>
