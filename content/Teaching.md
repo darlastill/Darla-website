@@ -11,7 +11,7 @@ Students report,
     <ul><li>"This course made me think much more in depth about social issues and mental health."</li>
        <li>"Darla treated her students as adults, meaning, she gave us the decision whether to go to class or not which really helps feel powered. Eventhough people hardly participated and attended classes, she taught as if there were 3412312 people in the room. REALLY ENJOYED THIS CLASS."</li>	
        <li>"From the start of the course Darla wanted to know what specific drug topics we were interested in researching and she tailored the class that way. It was so great that the whole semester half of the work we were doing was going directly to our own interests."</li>
-        <li>"I enjoyed the instructor's passion for the topics discussed."</li>
+       <li>"I enjoyed the instructor's passion for the topics discussed."</li>
        <li>"I really enjoyed the topics discussed throughout the course and learning about the sociological reasons behind drug addiction, the policies in place to address them, and policies that should be put into place."</li>
        <li>"I really like learning about Mental Illness and how it affects people. This course is new to the University so I'm glad to be one of the first students to take this course."</li>
         <li>"I liked the concept of this course and looking at mental health/mental illness from a different perspective rather than just medical."</li>
