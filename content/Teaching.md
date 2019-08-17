@@ -17,7 +17,7 @@ Students report,
         <li>"I liked the concept of this course and looking at mental health/mental illness from a different perspective rather than just medical."</li>
         <li>"I liked how the content we learned about was very interesting. I also liked how most of the assignments were thought-provoking and helped me understand the material better."</li>
         <li>"I really enjoyed learning about the sociological concepts in this course. I learned so much in this class and it was all super interesting. This is not something I normally say for classes, but I loved being a part of this class."</li>
-        <li>"I think the instructor did a great job in streamlining the class for a summer session. I feel like I have a firm handle on a lot of the content despite the time constraints. Additionally, there was absolutely no "busy work" which was really pleasant. I felt like every assigned reading was relevant to the material."</li>
+        <li>"I think the instructor did a great job in streamlining the class for a summer session. I feel like I have a firm handle on a lot of the content despite the time constraints. Additionally, there was absolutely no "busy work" which was really pleasant. I felt like every assigned reading was relevant to the material."</li></ul>
 
 <hr>
         
