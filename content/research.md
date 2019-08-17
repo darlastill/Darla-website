@@ -22,6 +22,7 @@ The first part of her dissertation explores how individuals express emotions whe
 <h2>Collaboration</h2>
 <h3>Dude, I Want to Kill Myself: Displays of Masculinity, Emotion, and Suicidal Ideation in Online Support Groups.</h3>
 <a href="https://melmagazine.com/en-us/story/for-suicidal-men-this-subreddit-can-be-the-difference-between-life-and-death">---covered by MEL magazine</a>
+
 Qualitative analysis of 3,125 posts from an online suicide support forum. 
 
 <h2>Other Projects</h2>
