@@ -6,9 +6,15 @@ draft: false
 menu: main
 weight: 1
 ---
+<html>
+<head>
+<style>
 p.ex1 {
   max-width: 50%;
 }
+</style>
+</head>
+<body>
 
 <h1>About Me</h1>
 <hr>
