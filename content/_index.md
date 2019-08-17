@@ -23,7 +23,7 @@ weight: 1
         position: right;
 }
         div.c {
-  width: 50%;
+  width: 80%;
   ;  
 }
          </style>
