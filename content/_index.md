@@ -8,6 +8,20 @@ weight: 1
 ---
 <html>
 <head>
+    <style>
+    body {
+        background: white }
+    section {
+        background: black;
+        color: white;
+        border-radius: 3em;
+        padding: 3em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) }
+  </style>
   </head>
 <body>
 <section>
