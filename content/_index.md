@@ -8,6 +8,11 @@ weight: 1
 ---
 <html>
 <head>
+  <style>
+img {
+  float: left;
+}
+</style>
 </head>
 <body>
 
