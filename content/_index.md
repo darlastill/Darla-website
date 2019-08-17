@@ -17,5 +17,6 @@ weight: 1
 
 <p>Darla has a strong passion for finding answers to puzzles through her research skills. As a methodologist and computational social scientist, Darla is able to answer a multitude of research questions by matching each question to an appropriate analytical technique. Darla embraces the challenge of finding patterns in data, but by having a strong understanding of social relationships, Darla has a deeper awareness of human behavior, thus enhancing her empathy for the human experience. </p> 
 
-<BR CLEAR=”left”/> 
+
 {{< image src="https://i.imgur.com/iyUYhTb.jpg" width="28%" >}}
+<BR CLEAR=”right”/> 
