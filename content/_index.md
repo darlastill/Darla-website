@@ -12,7 +12,7 @@ weight: 1
 <body>
 
 <h1>About Me</h1>
-{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="28%" class="alignright" >}}
+{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="28%" align="left" >}}
 <BR>
 <p>Darla is currently a <a href="https://sociology.arizona.edu/user/darla-still">Doctoral Candidate</a> at The University of Arizona in the School of Sociology. She earned her Master of Arts degree in Sociology at The University of Memphis in December 2014, where she also earned her undergraduate degree.</p>
 
