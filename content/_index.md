@@ -13,7 +13,8 @@ weight: 1
   float: left;
 }
     body {
-        background: white }
+        background: white 
+        width: 50%}
     section {
         background: black;
         color: white;
