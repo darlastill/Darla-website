@@ -19,7 +19,7 @@ weight: 1
         color: white;
         border-radius: 1em;
         padding: 1em;
-        position: absolute;
+        position: right;
          </style>
   </head>
 <body>
