@@ -23,7 +23,7 @@ weight: 1
         position: right;
 }
         div.c {
-width: fit-content;
+width: 50%;
     margin-left: auto;
     margin-right: auto;
         }
