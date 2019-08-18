@@ -50,7 +50,7 @@ width: 50%;
     <p>{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="50%" align="inline">}}</p>
 <p>I am currently a <a href="https://sociology.arizona.edu/user/darla-still">PhD Candidate</a> at <a href="https://sociology.arizona.edu/">The University of Arizona in the School of Sociology</a>. I earned my Master of Arts degree in <a href="https://www.memphis.edu/sociology/graduate/placements.php">Sociology at The University of Memphis</a> in December 2014, where I also earned my undergraduate degree. 
     <hr>
-    I have a strong passion for finding answers to puzzles through her research skills. As a methodologist and computational social scientist, I am able to answer a multitude of research questions by matching each question to an appropriate analytical technique. I embrace the challenge of finding patterns in data, but by having a strong understanding of social relationships, I have a deeper awareness of human behavior, thus enhancing my empathy for the human experience.
+    I have a strong passion for finding answers to puzzles through my research skills. As a methodologist and computational social scientist, I am able to answer a multitude of research questions by matching each question to an appropriate analytical technique. I embrace the challenge of finding patterns in data, but by having a strong understanding of social relationships, I have a deeper awareness of human behavior, thus enhancing my empathy for the human experience.
         <hr>
 </p></div>
 
