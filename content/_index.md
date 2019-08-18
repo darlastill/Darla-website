@@ -24,6 +24,7 @@ weight: 1
 }
         div.c {
 width: 50%;
+        height: 75%;
     margin-left: auto;
     margin-right: auto;
         }
