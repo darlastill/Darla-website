@@ -23,9 +23,10 @@ weight: 1
         position: right;
 }
         div.c {
- width: 1000px;
-  height: 750px;  
- }
+width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+        }
         * {
   box-sizing: border-box;
 }
