@@ -50,7 +50,7 @@ theme = "hugo-terrassa-theme"
 [params.social] # Social networks
     twitter = "https://twitter.com/seriousdarla"
     facebook = ""
-    github = ""
+    github = "https://github.com/darlastill"
     gitlab = ""
     codepen = ""
     instagram = ""
