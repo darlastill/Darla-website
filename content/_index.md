@@ -40,7 +40,7 @@ h2 {
  
 .inner {
 	width: 1000px;
-  background: white;
+  background: yellow;
   position: absolute;
   top: 50%;
   left: 50%;
