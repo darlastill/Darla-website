@@ -12,45 +12,29 @@ weight: 1
         img {
   float: left;
 }
-    body {
-        background: white 
+body {
+  background-color: #ffffff;
+  margin: 0 15%;
+  font-family: sans-serif;
+  }
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #000000;
+  margin-top: 30px;
 }
-    section {
-        background: black;
-        color: white;
-        border-radius: 1em;
-        padding: 1em;
-        position: right;
+
+h2 {
+  color: #000000;
+  font-size: 1em;
 }
-        div.c {
-width: 50%;
-        height: 50%;
-    margin-left: auto;
-    margin-right: auto;
-        }
-        * {
-  box-sizing: border-box;
-}
-.parent {
-	background: white;
-  width: 1200px;
-  position: relative;
-}
- 
-.inner {
-	width: 1000px;
-  background: white;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  
-  transform: translate(-50%, -50%);
-}      
-   </style>
+
+</style>
   </head>
-<body><div class="parent">
-  <div class="inner">
-<h1>About Me</h1>
+<body><style><h1>About Me</h1>
     <p>{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="300" height="500" align="inline">}}</p>
 <p>I am currently a <a href="https://sociology.arizona.edu/user/darla-still">PhD Candidate</a> at <a href="https://sociology.arizona.edu/">The University of Arizona in the School of Sociology</a>. I earned my Master of Arts degree in <a href="https://www.memphis.edu/sociology/graduate/placements.php">Sociology at The University of Memphis</a> in December 2014, where I also earned my undergraduate degree. 
     <hr>
