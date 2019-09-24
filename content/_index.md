@@ -47,7 +47,6 @@ h2 {
   
   transform: translate(-50%, -50%);
 }      
-
 </style>
   </head>
 <body><div class="parent">
@@ -58,4 +57,3 @@ h2 {
 </p></div>
 </div>
 </body></html>
-
