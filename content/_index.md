@@ -51,7 +51,7 @@ width: 50%;
 
    </style>
   </head>
-<body><div class="parent">
+<body><style><div class="parent">
   <div class="inner"><span style="display:block" class="note">
 <h1>About Me</h1>
     <p>{{< image src="https://i.imgur.com/iyUYhTb.jpg" width="300" height="500" align="inline">}}</p>
@@ -60,5 +60,5 @@ width: 50%;
     I have a strong passion for finding answers to puzzles through my research skills. As a methodologist and computational social scientist, I am able to answer a multitude of research questions by matching each question to an appropriate analytical technique. I embrace the challenge of finding patterns in data, but by having a strong understanding of social relationships, I have a deeper awareness of human behavior, thus enhancing my empathy for the human experience.
         <hr>
 </p></span></div>
-</div></body>
+</div></style></body>
 
