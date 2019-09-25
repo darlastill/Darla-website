@@ -58,8 +58,7 @@ weight: 1
   		body {
     		top: 50%;
   		left: 50%;
-		margin: -70px 0 0 -170px;
-	    	}
+		}
   }
 	</style>
 </head>
