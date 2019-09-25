@@ -39,6 +39,7 @@ weight: 1
 	}
  	.inner {
 	background: white;
+	width: 1000px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
