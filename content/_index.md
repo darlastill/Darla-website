@@ -15,7 +15,6 @@ weight: 1
 	body {
 	background-color: #ffffff;
 	margin: 0 15%;
-	position: relative;
 	font-family: sans-serif;
 	}
 	h1 {
