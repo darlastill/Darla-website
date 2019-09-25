@@ -10,45 +10,44 @@ weight: 1
 <head>
     <style>
         img {
-  float: left;
-}
-body {
-  background-color: #ffffff;
-  margin: 0 15%;
-  font-family: sans-serif;
-  }
+		float: left;
+		}
+		body {
+		  background-color: #ffffff;
+		  margin: 0 15%;
+		  font-family: sans-serif;
+		  }
 
-h1 {
-  text-align: center;
-  font-family: serif;
-  font-weight: normal;
-  text-transform: uppercase;
-  border-bottom: 1px solid #000000;
-  margin-top: 30px;
-}
+		h1 {
+		  text-align: center;
+		  font-family: serif;
+		  font-weight: normal;
+		  text-transform: uppercase;
+		  border-bottom: 1px solid #000000;
+		  margin-top: 30px;
+		}
 
-h2 {
-  color: #000000;
-  font-size: 1em;
-}
+		h2 {
+		color: #000000;
+		font-size: 1em;
+		}
 
-.parent {
-	background: white;
-  width: 1200px;
-  position: relative;
-}
+		.parent {
+			background: white;
+		  width: 1200px;
+		  position: relative;
+		}
  
-.inner {
-	width: 1000px;
-  background: white;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  
-  transform: translate(-50%, -50%);
-}      
-</style>
-  </head>
+		.inner {
+			width: 1000px;
+		  background: white;
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+		}      
+	</style>
+</head>
 <body><div class="parent">
   <div class="inner">
 <p><h1><img src="https://i.imgur.com/iyUYhTb.jpg" height="375" alt="Darla Still" position="inline"><br>About Darla Still</h1>
