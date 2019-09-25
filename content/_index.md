@@ -40,9 +40,6 @@ weight: 1
 	background: white;
 	width: 1000px;
 	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
 	}
 	</style>
 </head>
