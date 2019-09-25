@@ -29,7 +29,7 @@ weight: 1
 	font-size: 1em;
 	}
 	p {
-  	font-size: 13px;
+  	font-size: 14px;
 	}    
 	.inner {
 	background: white;
