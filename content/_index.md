@@ -37,7 +37,9 @@ weight: 1
 	.inner {
 	background: white;
 	position: absolute;
-	width: 1000px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 	}
 	</style>
 </head>
