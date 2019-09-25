@@ -38,10 +38,7 @@ weight: 1
 	background: white;
 	position: absolute;
 	width: 1200px;
-	top: 10%;
-	left: 10%;
-	transform: translate(-10%, -10%);
-	}
+	height: 900px;}
 	</style>
 </head>
 <body>
