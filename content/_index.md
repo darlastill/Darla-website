@@ -9,7 +9,7 @@ weight: 1
 <html>
 <head>
     <style>
-        body, html, @media only screen and (max-width: 600px) {
+        body, html {
   	height: 100%;
   	display: grid;
 	}
@@ -54,6 +54,11 @@ weight: 1
   	left: 50%;
 	margin: -70px 0 0 -170px;
 	}
+	@media screen and (max-width: 600px) {
+  		.column {
+    		width: 50%;
+  }
+}
 	</style>
 </head>
 <body>
