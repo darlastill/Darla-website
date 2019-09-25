@@ -32,7 +32,9 @@ weight: 1
   	font-size: 14px;
 	}
 	.parent {
-  	position: relative;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
 	}
 	.inner {
 	background: white;
