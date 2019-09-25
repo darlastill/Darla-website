@@ -13,18 +13,18 @@ weight: 1
 		float: left;
 		}
 		body {
-		  background-color: #ffffff;
-		  margin: 0 15%;
-		  font-family: sans-serif;
-		  }
+		background-color: #ffffff;
+		margin: 0 15%;
+		font-family: sans-serif;
+		}
 
 		h1 {
-		  text-align: center;
-		  font-family: serif;
-		  font-weight: normal;
-		  text-transform: uppercase;
-		  border-bottom: 1px solid #000000;
-		  margin-top: 30px;
+		text-align: center;
+		font-family: serif;
+		font-weight: normal;
+		text-transform: uppercase;
+		border-bottom: 1px solid #000000;
+		margin-top: 30px;
 		}
 
 		h2 {
@@ -33,18 +33,18 @@ weight: 1
 		}
 
 		.parent {
-			background: white;
-		  width: 1200px;
-		  position: relative;
+		background: white;
+		width: 1200px;
+		position: relative;
 		}
  
 		.inner {
-			width: 1000px;
-		  background: white;
-		  position: absolute;
-		  top: 50%;
-		  left: 50%;
-		  transform: translate(-50%, -50%);
+		width: 1000px;
+		background: white;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
 		}      
 	</style>
 </head>
