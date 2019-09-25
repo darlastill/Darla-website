@@ -14,6 +14,7 @@ weight: 1
 	}
 	body {
 	background-color: #ffffff;
+	position: relative;
 	margin: 0 15%;
 	font-family: sans-serif;
 	}
@@ -35,7 +36,7 @@ weight: 1
 	.parent {
 	background: white;
 	width: 1000px;
-	position: relative;
+	position: absolute;
 	}
  	.inner {
 	width: 800px;
