@@ -15,7 +15,6 @@ weight: 1
 	body {
 	background-color: #ffffff;
 	position: relative;
-	margin: 0 15%;
 	font-family: sans-serif;
 	}
 	h1 {
@@ -31,7 +30,7 @@ weight: 1
 	font-size: 1em;
 	}
 	p {
-  	font-size: 14px;
+  	font-size: 13px;
 	}    
 	.parent {
 	background: white;
