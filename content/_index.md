@@ -32,7 +32,8 @@ weight: 1
   	font-size: 14px;
 	}
 	.parent {
-  	display: flex;
+  	position: relative;
+	display: flex;
   	justify-content: center;
   	align-items: center;
 	}
