@@ -9,7 +9,7 @@ weight: 1
 <html>
 <head>
     <style>
-        body, html {
+        body, html, @media only screen and (max-width: 600px) {
   	height: 100%;
   	display: grid;
 	}
@@ -54,11 +54,6 @@ weight: 1
   	left: 50%;
 	margin: -70px 0 0 -170px;
 	}
-	@media only screen and (max-width: 600px) {
-  		body {
-    			background-color: lightblue;
-  }
-}
 	</style>
 </head>
 <body>
