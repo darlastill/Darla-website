@@ -48,6 +48,7 @@ weight: 1
 		}      
 	</style>
 </head>
+</html>
 <body><div class="parent">
   <div class="inner">
 <p><h1><img src="https://i.imgur.com/iyUYhTb.jpg" height="375" alt="Darla Still" position="inline"><br>About Darla Still</h1>
@@ -55,4 +56,4 @@ weight: 1
     I have a strong passion for finding answers to puzzles through my research skills. As a methodologist and computational social scientist, I am able to answer a multitude of research questions by matching each question to an appropriate analytical technique. I embrace the challenge of finding patterns in data, but by having a strong understanding of social relationships, I have a deeper awareness of human behavior, thus enhancing my empathy for the human experience.
 </p></div>
 </div>
-</body></html>
+</body>
