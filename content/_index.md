@@ -41,7 +41,12 @@ weight: 1
 	background: white;
 	position: absolute;
 	width: 900px;
-	height: 450px;}
+	height: 450px;
+	padding: 20px;
+	top: 50%;
+  	left: 50%;
+	margin: -70px 0 0 -170px;
+	}
 	</style>
 </head>
 <body>
