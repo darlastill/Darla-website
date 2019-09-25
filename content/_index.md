@@ -18,6 +18,7 @@ weight: 1
 	}
 	img {
 	float: left;
+	border: 10px solid white;
 	}
 	body {
 	background-color: #ffffff;
