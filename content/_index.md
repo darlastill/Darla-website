@@ -28,11 +28,11 @@ weight: 1
 	}
 	.parent {
 	background: white;
-	width: 1200px;
+	width: 1000px;
 	position: relative;
 	}
  	.inner {
-	width: 1000px;
+	width: 800px;
 	background: white;
 	position: absolute;
 	top: 50%;
