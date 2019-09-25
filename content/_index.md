@@ -9,7 +9,10 @@ weight: 1
 <html>
 <head>
     <style>
-        body {
+        img {
+	float: left;
+	}
+	body {
 	background-color: #ffffff;
 	margin: 0 15%;
 	font-family: sans-serif;
