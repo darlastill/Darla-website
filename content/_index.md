@@ -33,19 +33,16 @@ weight: 1
 	p {
   	font-size: 13px;
 	}    
-	.parent {
+	.inner {
 	background: white;
-	position: relative;
-	}
- 	.inner {
-	background: white;
-	width: 1000px;
 	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 	}
 	</style>
 </head>
 <body>
-	<div class="parent">
 	<div class="inner">
 	<h1>About Darla Still</h1><br>
 	<p><img src="https://i.imgur.com/iyUYhTb.jpg" height="35%" width="35%" alt="Darla Still">I am a PhD candidate in sociology at the University of Arizona. As a computational social scientist and methodologist, my research focuses on online discourse and online community interactions, mental health, social support, and social networks.</p>
@@ -53,6 +50,5 @@ weight: 1
 <p>In the second project I analyze a random sample of posts from 2014-2017 from the same suicide support community. During this time period, suicide mortality rates in the United States increased by 1% per 100,000 people – exhibiting the largest increase over three-year increments since roughly 2000. In this project, using ATLAS.ti I perform a qualitative content analysis using to understand “why suicide?” and contribute to our existing knowledge of the vast risk factors associated with suicide mortality. By qualitatively analyzing texts, we can better understand suicide motivators outside of demographic characteristics. In the third project I focus on repeat authors in the suicide support community, that is, I focus on individuals who have written one or more posts in this online community over time. By analyzing the egocentric networks and conversations (posts + comments) of repeat authors in R,  we can better understand how to engage with suicidal individuals and what suicide support looks like over time.</p>
 <p>I have instructed courses (in-person and online) on the Sociology of Mental Health and the Sociology of Drugs and Addiction, in addition to Health Disparities and introductory sociology courses. My co-authored research has been covered by MEL magazine, UA News, and KGUN9 (local news) in Tucson. I have presented my research to interdisciplinary, academic, and non-academic audiences at national and regional conferences. I have also been an invited speaker at university and community events to discuss suicide.</p>
 </p></div>
-</div>
 </body>
 </html>
