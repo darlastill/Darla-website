@@ -9,15 +9,11 @@ weight: 1
 <html>
 <head>
     <style>
-        img {
-	float: left;
-	}
-	body {
+        body {
 	background-color: #ffffff;
 	margin: 0 15%;
 	font-family: sans-serif;
 	}
-
 	h1 {
 	text-align: center;
 	font-family: serif;
@@ -26,19 +22,16 @@ weight: 1
 	border-bottom: 1px solid #000000;
 	margin-top: 30px;
 	}
-
 	h2 {
 	color: #000000;
 	font-size: 1em;
 	}
-
 	.parent {
 	background: white;
 	width: 1200px;
 	position: relative;
 	}
- 
-	.inner {
+ 	.inner {
 	width: 1000px;
 	background: white;
 	position: absolute;
