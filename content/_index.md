@@ -56,7 +56,9 @@ weight: 1
 	}
 	@media only screen and (max-width: 600px) {
   		body {
-    		height: 50%;
+    		top: 50%;
+  		left: 50%;
+		margin: -70px 0 0 -170px;
 	    	}
   }
 	</style>
