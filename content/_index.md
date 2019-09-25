@@ -57,10 +57,12 @@ weight: 1
 	@media only screen and (max-width: 600px) {
   		body {
     		height: 50%;
-	    	width 75%;
+	    	display: grid;
+		}
+		span { /* thing to center */
+		margin: auto;
+		}
   }
-}
-
 	</style>
 </head>
 <body>
