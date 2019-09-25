@@ -37,8 +37,8 @@ weight: 1
 	.inner {
 	background: white;
 	position: absolute;
-	width: 1200px;
-	height: 900px;}
+	width: 900px;
+	height: 450px;}
 	</style>
 </head>
 <body>
