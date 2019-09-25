@@ -54,11 +54,13 @@ weight: 1
   	left: 50%;
 	margin: -70px 0 0 -170px;
 	}
-	@media screen and (max-width: 600px) {
-  		.column {
-    		width: 50%;
+	@media only screen and (max-width: 600px) {
+  		body {
+    		height: 50%;
+	    	width 75%;
   }
 }
+
 	</style>
 </head>
 <body>
