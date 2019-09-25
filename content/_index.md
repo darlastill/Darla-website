@@ -16,6 +16,9 @@ weight: 1
 	span { /* thing to center */
   	margin: auto;
 	}
+	img {
+	float: left;
+	}
 	body {
 	background-color: #ffffff;
 	font-family: sans-serif;
