@@ -21,7 +21,7 @@ weight: 1
 	}
 	body {
 	background-color: #ffffff;
-	font-family: serif;
+	font-family: san-serif;
 	}
 	h1 {
 	text-align: center;
