@@ -48,7 +48,6 @@ weight: 1
 		}      
 	</style>
 </head>
-</html>
 <body><div class="parent">
   <div class="inner">
 <p><h1><img src="https://i.imgur.com/iyUYhTb.jpg" height="375" alt="Darla Still" position="inline"><br>About Darla Still</h1>
@@ -57,3 +56,4 @@ weight: 1
 </p></div>
 </div>
 </body>
+</html>
