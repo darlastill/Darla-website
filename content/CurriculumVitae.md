@@ -10,4 +10,4 @@ weight: 2
 
 Below is the .pdf version of my curriculum vitae.
 
-{{< pdf "https://sociology.arizona.edu/sites/sociology.arizona.edu/files/u265/dstill_cv_oct19.pdf" >}}
+{{< pdf "https://sociology.arizona.edu/sites/sociology.arizona.edu/files/u265/dstill_cv_oct19_0.pdf" >}}
