@@ -39,4 +39,4 @@ Secondary longitudinal data analysis of the Survey of Health, Ageing, and Retire
 
 <h2>Master's Thesis</h2>
 <h3>Romantic Relationship Quality as a Protective Factor against Suicidal Ideation in Young Adulthood.</h3>
-Secondary longitudinal data analysis of the National Longitudinal Study of Adolescent to Adult Health (Add Health).  
+This work is forthcoming in [Society and Mental Health](https://www.researchgate.net/publication/341175255_Romantic_Relationship_Quality_and_Suicidal_Ideation_in_Young_Adulthood). Secondary longitudinal data analysis of the National Longitudinal Study of Adolescent to Adult Health (Add Health).  
