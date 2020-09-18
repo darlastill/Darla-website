@@ -10,4 +10,4 @@ weight: 2
 
 Below is the .pdf version of my curriculum vitae.
 
-{{< pdf "" >}}
+{{< pdf "https://drive.google.com/file/d/1JR8v3NlEH7UfeD_ZIaQjm3J1i9iJOgkb/view?usp=sharing" >}}
