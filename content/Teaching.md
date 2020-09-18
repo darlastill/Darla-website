@@ -25,7 +25,7 @@ Students report,
 
 <h3>University of Arizona</h3>
 <ul>
-    <li>Summer 2019 & Winter 2018-19 (online), Fall 2018 -- CHS/SOC 404: Sociology of Mental
+    <li>Summer 2019 & Winter 2018-19 (online), Fall 2018, Fall 2020 (online) -- CHS/SOC 404: Sociology of Mental
         Health</li>
     <li>Spring 2019 -- CHS/SOC 421: Sociology of Drugs and Addiction</li>
     <li>Summer 2018 (online) -- CHS/SOC 202: Connecting Health and Society</li>
