@@ -48,7 +48,7 @@ theme = "terrassa"
     address = ""
 
 [params.social] # Social networks
-    twitter = "https://twitter.com/seriousdarla"
+    twitter = ""
     facebook = ""
     github = ""
     gitlab = ""
