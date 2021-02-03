@@ -16,8 +16,7 @@ weight: 3
 
 
 <hr>
-<p>In other work, I have analyzed national longitudinal datasets (Add Health and SHARE) to understand suicide ideation among young adults and among older Europeans. My forthcoming and future projects seek to understand suicidality among veterans in the United States by analyzing texts from online communities for veterans specifically.</p>
-  
+ 
   
 <h2>Collaboration</h2>
 <h3>Dude, I Want to Kill Myself: Displays of Masculinity, Emotion, and Suicidal Ideation in Online Support Groups.</h3>
