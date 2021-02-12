@@ -65,7 +65,7 @@ weight: 1
 <body>
 	<span>
 	<h1>About Darla</h1><br>
-	<p><img src="https://imgur.com/m0oUbVU.jpg" height="25%" width="25%" alt="Darla Still" position="inline"><font size="80" color="#FF0080">I</font> am a mixed-methods Researcher and Sociologist. <br><br>My most recent work investigates suicide discourse from an online support community. <br><br>My co-authored research has been covered by MEL magazine, UA News, and KGUN9 (local news) in Tucson. I have presented my research to interdisciplinary, academic, and non-academic audiences at national and regional conferences. I have also been an invited speaker at university and community events to discuss suicide.</p>
+	<p><img src="https://drive.google.com/file/d/1ZkYRuBUu599JQnugQJEsuKcouIjAaXld/view?usp=sharing" height="25%" width="25%" alt="Darla Still" position="inline"><font size="80" color="#FF0080">I</font> am a mixed-methods Researcher and Sociologist. <br><br>My most recent work investigates suicide discourse from an online support community. <br><br>My co-authored research has been covered by MEL magazine, UA News, and KGUN9 (local news) in Tucson. I have presented my research to interdisciplinary, academic, and non-academic audiences at national and regional conferences. I have also been an invited speaker at university and community events to discuss suicide.</p>
 	</span>
 </body>
 </html>
